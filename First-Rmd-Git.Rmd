@@ -9,6 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 require(tidyverse)
 ```
+I love to play pickle ball and video games. I love eating noodles!
 
 ## R Markdown
 
