@@ -19,7 +19,7 @@ Fav color is Blue
 summary(mpg)
 ```
 
-## Including Plots
+## Average MPG
 
 You can also embed plots, for example:
 
